@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = UploadEmail.Contract
+build_property.ProjectDir = c:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\

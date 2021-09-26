@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\bin\Release\netcoreapp3.1\UploadEmail.Contract.deps.json
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\bin\Release\netcoreapp3.1\UploadEmail.Contract.dll
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\bin\Release\netcoreapp3.1\UploadEmail.Contract.pdb
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\obj\Release\netcoreapp3.1\UploadEmail.Contract.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\obj\Release\netcoreapp3.1\UploadEmail.Contract.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\obj\Release\netcoreapp3.1\UploadEmail.Contract.AssemblyInfo.cs
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\obj\Release\netcoreapp3.1\UploadEmail.Contract.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\obj\Release\netcoreapp3.1\UploadEmail.Contract.dll
+C:\Users\User\Source\Repos\UploadEmailMessagesHttpTriggerFunction\UploadEmail.Contract\obj\Release\netcoreapp3.1\UploadEmail.Contract.pdb
